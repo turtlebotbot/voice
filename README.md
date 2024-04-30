@@ -1,6 +1,7 @@
 # 2024 ACC Self-Driving Car Student Competition
 
 ## Member
+
 Kyungpoook National University, South Korea
 
 **Team Name:** VOICE  
